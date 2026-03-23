@@ -1,9 +1,9 @@
 import "./App.scss";
-import { ToDoList } from "./pages/ToDoList";
+
+import { ToDoListPage } from "./pages/ToDoList";
 
 function App() {
-  return <ToDoList />;
-
+  return <ToDoListPage />;
 }
 
 export default App;
